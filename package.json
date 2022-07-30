@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/coderberry.sidewind-l686d5uy",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Ljhr1nsAB7Fjuhp6QMpS --open"
+  }
+}
